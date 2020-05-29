@@ -2,4 +2,4 @@ ErrorDocument 404 /404.html
 
 RewriteEngine On
 RewriteCond  %{SERVER_PORT} ^{25565}$
-RewriteRule ^(.*)$ http://www.google.com [L, R=301]
+RewriteRule ^(.*)$ http://www.scoutcraft.com [L, R=301]
